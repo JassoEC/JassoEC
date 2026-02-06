@@ -1,4 +1,5 @@
-![Software Engineering Portfolio](./banner.png)
+![Software Engineering Portfolio](https://raw.githubusercontent.com/JassoEC/JassoEC/main/banner.png)
+
 
 <h1 align="center">Hi, I'm Emanuel 👋</h1>
 
