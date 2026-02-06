@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./images/banner.png" alt="Software Engineering Portfolio" width="100%" style="aspect-ratio: 21/6; object-fit: cover;" />
-</p>
+![Software Engineering Portfolio](./images/banner.png)
+
 <h1 align="center">Hi, I'm Emanuel 👋</h1>
 
 <p align="center">
