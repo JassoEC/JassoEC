@@ -1,26 +1,46 @@
-<h1 align="center">Hi there! I'm Emanuel 👋</h1>
+<h1 align="center">Hi, I'm Emanuel 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | Full Stack Developer | Growing AWS Skills</strong>
+  <strong>Software Engineer · Full Stack · Product-minded</strong>
 </p>
 
 <p align="center">
-  Passionate about building robust APIs, modern interfaces, and scalable cloud-powered solutions.
+  I build pragmatic software products with a strong focus on backend, architecture decisions, and long-term maintainability.
 </p>
 
 ---
 
 ### About Me
 
-- ⚙️ Skilled in both **backend and frontend** development  
-- 💡 Core stack: **Node.js, TypeScript, PHP, ReactJS, NextJS, NestJS**  
-- ☁️ Actively deepening my knowledge in **AWS** and cloud architecture best practices  
-- 🚀 Focused on performance, scalability, and automation  
-- 🔄 Always learning, always building  
+- ⚙️ Full stack engineer with a **backend-first mindset**
+- 🧠 Strong focus on **problem framing, technical trade-offs, and product impact**
+- 💡 Core stack: **Node.js, TypeScript, PHP, React, Next.js, NestJS**
+- ☁️ Actively developing skills in **AWS and cloud-aware architectures**
+- 🚀 Interested in building **simple, durable products that are actually used**
+- 🔁 Continuous learning, applied through real projects — not tutorials
 
 ---
 
-### Technologies & Tools
+### What I Care About
+
+- Designing **clear domain models** and maintainable APIs  
+- Making **explicit technical decisions** and documenting trade-offs  
+- Avoiding over-engineering while keeping systems evolvable  
+- Using cloud services **consciously**, balancing cost, complexity, and value  
+- Treating AI as a **copilot**, not a substitute for engineering judgment  
+
+---
+
+### Current Focus
+
+- Shipping and iterating on **real, small-to-medium scope products**
+- Strengthening backend architecture and data modeling skills  
+- Improving cloud fundamentals (AWS) with a **pragmatic, cost-aware approach**
+- Building a portfolio that reflects **how I think**, not just what I know  
+
+---
+
+### Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,20 +52,12 @@
 
 ---
 
-### What I'm Working On
-
-- Exploring **AWS services**, serverless architecture, and cloud-native deployment  
-- Improving CI/CD pipelines and automation with modern DevOps tools  
-- Applying new knowledge in real-world software projects  
-
----
-
-### Connect With Me
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecajasso/)
 
 ---
 
 <p align="center">
-  Thanks for stopping by! Always learning, always building.
+  I value clarity over hype, fundamentals over trends, and products over prototypes.
 </p>
