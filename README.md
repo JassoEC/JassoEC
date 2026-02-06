@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  I value clarity over hype, fundamentals over trends, and products over prototypes.
+  “Software is not defined only by what it does, but by what it deliberately chooses not to do.”
 </p>
