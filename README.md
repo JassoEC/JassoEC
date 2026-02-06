@@ -1,4 +1,4 @@
-![Software Engineering Portfolio](./images/banner.png)
+![Software Engineering Portfolio](./banner.png)
 
 <h1 align="center">Hi, I'm Emanuel 👋</h1>
 
