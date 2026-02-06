@@ -1,26 +1,20 @@
 ![Software Engineering Portfolio](https://raw.githubusercontent.com/JassoEC/JassoEC/main/banner.png)
 
+## Emanuel Campos
+Product-minded Full Stack Software Engineer with a backend-first approach.
 
-<h1 align="center">Hi, I'm Emanuel 👋</h1>
-
-<p align="center">
-  <strong>Software Engineer · Full Stack · Product-minded</strong>
-</p>
-
-<p align="center">
-  I build pragmatic software products with a strong focus on backend, architecture decisions, and long-term maintainability.
-</p>
+I build pragmatic software products with a strong focus on backend architecture, explicit technical trade-offs, and long-term maintainability.
 
 ---
 
 ### About Me
 
-- ⚙️ Full stack engineer with a **backend-first mindset**
-- 🧠 Strong focus on **problem framing, technical trade-offs, and product impact**
-- 💡 Core stack: **Node.js, TypeScript, PHP, React, Next.js, NestJS**
-- ☁️ Actively developing skills in **AWS and cloud-aware architectures**
-- 🚀 Interested in building **simple, durable products that are actually used**
-- 🔁 Continuous learning, applied through real projects — not tutorials
+- Full stack engineer with a **backend-first mindset**
+- Strong focus on **problem framing, technical trade-offs, and product impact**
+- Core stack: **Node.js, TypeScript, PHP, React, Next.js, NestJS**
+- Actively developing skills in **AWS and cloud-aware architectures**
+- Interested in building **simple, durable products that are actually used**
+- Continuous learning, applied through **real projects**, not tutorials
 
 ---
 
@@ -61,6 +55,4 @@
 
 ---
 
-<p align="center">
-  “Software is not defined only by what it does, but by what it deliberately chooses not to do.”
-</p>
+> “Software is not defined only by what it does, but by what it deliberately chooses not to do.”
