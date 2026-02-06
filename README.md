@@ -9,12 +9,13 @@ I build pragmatic software products with a strong focus on backend architecture,
 
 ### About Me
 
-- Full stack engineer with a **backend-first mindset**
-- Strong focus on **problem framing, technical trade-offs, and product impact**
-- Core stack: **Node.js, TypeScript, PHP, React, Next.js, NestJS**
-- Actively developing skills in **AWS and cloud-aware architectures**
-- Interested in building **simple, durable products that are actually used**
-- Continuous learning, applied through **real projects**, not tutorials
+- ⚙️ Full stack engineer with a **backend-first mindset**
+- 🧠 Strong focus on **problem framing, technical trade-offs, and product impact**
+- 💡 Core stack: **Node.js, TypeScript, PHP, React, Next.js, NestJS**
+- ☁️ Actively developing skills in **AWS and cloud-aware architectures**
+- 🚀 Interested in building **simple, durable products that are actually used**
+- 🔁 Continuous learning, applied through **real projects**, not tutorials
+
 
 ---
 
