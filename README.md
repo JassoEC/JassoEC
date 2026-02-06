@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./images/github-banner.png" alt="Software Engineering Portfolio" width="100%" style="aspect-ratio: 21/9; object-fit: cover;" />
+</p>
 <h1 align="center">Hi, I'm Emanuel 👋</h1>
 
 <p align="center">
